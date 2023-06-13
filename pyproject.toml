@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "drf-porject"
+version = "0.0.1"
+description = "tihs is django rest project"
+authors = ["laib200 <laib.dz.206@gmail.com>"]
+readme = "README.md"
+packages = [{include = "drf_porject"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.2"
+djangorestframework = "^3.14.0"
+python-dotenv = "^1.0.0"
+django-cors-headers = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
