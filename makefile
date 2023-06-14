@@ -45,6 +45,14 @@ migrate :makemigrations
 #     collectstatic
 #     findstatic
 full-run :migrate
-	python server/manage.py runserver 4906
+	python server/manage.py runserver 
 run :
-	python server/manage.py runserver 4906²
+	python server/manage.py runserver 
+
+
+
+
+# testing 
+test :
+	cd server && pytest
+
