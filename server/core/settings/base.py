@@ -26,10 +26,10 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     # api packages , default urls and default api
-   'api.apps.ApiConfig'
-   'routers.apps.RoutersConfig'
+   'api.apps.ApiConfig',
+   'routers.apps.RoutersConfig',
     # created packages
-    'products.apps.ProductsConfig'
+    'products.apps.ProductsConfig',
 ]
 
 MIDDLEWARE = [

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10"> <![endif]-->
+<!--[if IE 10]>        <html class="no-js gte-ie10"> <![endif]-->
+<!--[if gt IE 10]><!--> <html class="no-js gte-ie10"> <!--<![endif]-->
+    <head>
+
+    
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<title>placeholder-800x400 - I.J. White Systems</title>
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.ijwhite.com/sample-page/placeholder-800x400/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="placeholder-800x400 - I.J. White Systems" />
+	<meta property="og:url" content="https://www.ijwhite.com/sample-page/placeholder-800x400/" />
+	<meta property="og:site_name" content="I.J. White Systems" />
+	<meta property="article:modified_time" content="2017-12-16T00:23:30+00:00" />
+	<meta property="og:image" content="https://www.ijwhite.com/sample-page/placeholder-800x400" />
+	<meta property="og:image:width" content="800" />
+	<meta property="og:image:height" content="400" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/","url":"https://www.ijwhite.com/sample-page/placeholder-800x400/","name":"placeholder-800x400 - I.J. White Systems","isPartOf":{"@id":"https://www.ijwhite.com/#website"},"primaryImageOfPage":{"@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/#primaryimage"},"image":{"@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/#primaryimage"},"thumbnailUrl":"https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400.jpeg","datePublished":"2017-05-30T17:57:35+00:00","dateModified":"2017-12-16T00:23:30+00:00","breadcrumb":{"@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.ijwhite.com/sample-page/placeholder-800x400/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/#primaryimage","url":"https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400.jpeg","contentUrl":"https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400.jpeg","width":800,"height":400},{"@type":"BreadcrumbList","@id":"https://www.ijwhite.com/sample-page/placeholder-800x400/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.ijwhite.com/"},{"@type":"ListItem","position":2,"name":"Home","item":"https://www.ijwhite.com/"},{"@type":"ListItem","position":3,"name":"placeholder-800&#215;400"}]},{"@type":"WebSite","@id":"https://www.ijwhite.com/#website","url":"https://www.ijwhite.com/","name":"I.J. White Systems","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ijwhite.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//yui-s.yahooapis.com' />
+<link rel="alternate" type="application/rss+xml" title="I.J. White Systems &raquo; placeholder-800&#215;400 Comments Feed" href="https://www.ijwhite.com/sample-page/placeholder-800x400/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ijwhite.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.ijwhite.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.ijwhite.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='fontawesome-css' href='//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pure-css' href='https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pure-g-css' href='https://yui-s.yahooapis.com/pure/0.6.0/grids-responsive-min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flint-style-css' href='https://www.ijwhite.com/wp-content/themes/flint-default/style.css?ver=6.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ijwhite.com/wp-content/themes/flint-default/js/vendor/modernizr-2.8.3.min.js?ver=1' id='modernizr-js'></script>
+<script type='text/javascript' src='https://www.ijwhite.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.ijwhite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.ijwhite.com/wp-content/themes/flint-default/js/plugins.js?ver=1' id='plugins-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-127375604-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.ijwhite.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-127375604-1", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.ijwhite.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ijwhite.com/wp-json/wp/v2/media/117" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ijwhite.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ijwhite.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://www.ijwhite.com/?p=117' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ijwhite.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ijwhite.com%2Fsample-page%2Fplaceholder-800x400%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ijwhite.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ijwhite.com%2Fsample-page%2Fplaceholder-800x400%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.102.0" /><link rel="icon" href="https://www.ijwhite.com/wp-content/uploads/2020/08/IJW-Logo-square-90x90.png" sizes="32x32" />
+<link rel="icon" href="https://www.ijwhite.com/wp-content/uploads/2020/08/IJW-Logo-square.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ijwhite.com/wp-content/uploads/2020/08/IJW-Logo-square.png" />
+<meta name="msapplication-TileImage" content="https://www.ijwhite.com/wp-content/uploads/2020/08/IJW-Logo-square.png" />
+
+	<style>
+
+/* Reusables */
+body{ color: #282828;  }
+a{ color: #d00205; }
+a:hover, a:active{ color: #9e0000; }
+button:not(.search-submit), a.btn{ background-color: #d00205; }
+button:not(.search-submit):hover, a.btn:hover{
+	background-color: #9e0000;
+	color: #ffffff;
+}
+a.btn.alt, .dark a.btn.alt{
+	color:#282828;
+	border-color: #d00205;
+}
+a.btn.alt:hover, .light a.btn.alt:hover{
+	color:#000;
+	border-color: #d00205;
+	background: #d00205;
+	color: #ffffff;
+}
+a.arrowlink{ color:#d00205; }
+a.arrowlink:hover{ color:#9e0000; }
+
+#pagination .pagination > a:hover,
+#pagination .pagination > span.current,
+#pagination .pagination > span.current{
+	/* background-color: #d00205; */
+	border-color: #d00205;
+	color: #d00205;
+}
+
+
+/* Header & Footer */
+header#site-header{ border-color: #d00205; }
+header#site-header.header-layout-a{ background-color: ; }
+header#site-header.header-layout-b{ border-bottom:10px solid #d00205; }
+/* .header-layout-a #close-menu, #menu-toggle{ background: ; } */
+#header-search .search-form button{ color: #d00205; }
+#header-tagline{ background-color: ; }
+.btn:hover{ background-color: #e91b1e; }
+.phonebtn a:before{ color: #d00205; }
+.phonebtn a:hover:before{ color: #e91b1e; }
+/* #site-footer a.social-icon{ background-color: #d00205; } */
+#site-footer a.social-icon{
+	color: #282828;
+	border-color: #282828;
+}
+#site-footer a.social-icon:hover{
+	background-color: #d00205;
+	border-color: #d00205;
+	color:#FFF;
+}
+#menu-primary-nav li a,
+#menu-secondary-nav li a{
+	color: #282828;
+}
+
+/* On-states & On-state hacks for custom post types */
+#menu-primary-nav li a:hover,
+#menu-primary-nav li:hover a,
+#menu-primary-nav li.current_page_item a,
+#menu-primary-nav li.current-page-ancestor a{ }
+.post-type-archive-careers #footer-nav ul li a.post-id-,
+.single-careers #footer-nav ul li a.post-id-,
+.post-type-archive-careers #footer-nav ul li a.post-id-2,
+.single-careers #footer-nav ul li a.post-id-2{ text-decoration: underline; }
+.post-type-archive-news #footer-nav ul li a.post-id-784,
+.single-news #footer-nav ul li a.post-id-784,
+.post-type-archive-news #footer-nav ul li a.post-id-770,
+.single-news #footer-nav ul li a.post-id-770{ text-decoration: underline; }
+.post-type-archive-news #footer-nav ul li a.post-id-784,
+.single-news #footer-nav ul li a.post-id-784,
+.post-type-archive-news #footer-nav ul li a.post-id-770,
+.single-news #footer-nav ul li a.post-id-770{ text-decoration: underline; }
+footer#site-footer{
+	background: #030d26;
+	color: #ffffff;
+}
+footer#site-footer a,
+#site-footer ul li a{
+	color: #17b9ff;
+}
+footer#site-footer a:hover,
+#site-footer ul li a:hover{
+	color: #4ef0ff;
+}
+#site-footer h4, #site-footer address span.heading{
+	color: #ffffff;
+}
+#site-footer a.social-icon{
+	color: #17b9ff;
+	border-color:  #17b9ff;
+}
+#site-footer a.social-icon:hover{
+	background:#17b9ff;
+	color:#030d26;
+}
+
+
+/* Homepage */
+#home-slider-container{ /* background: #d00205; */ }
+#home-slider-nav .slick-prev, #home-slider-nav .slick-next{ color:#d00205; }
+#home-slider-nav .slick-dots li button{ border-color: #d00205; }
+#home-slider-nav .slick-dots li.slick-active button{ background:#d00205; }
+#home-slider-nav .slick-dots li.slick-active button:hover,
+#home-slider-nav .slick-dots li button:hover,
+#home-slider-nav .slick-prev:hover, #home-slider-nav .slick-next:hover{ background:#d00205; }
+#home-inventory .nav-slider .slick-current figure img{ border-color: #d00205; }
+figure.icon{ background: #d00205; }
+#home-body article h3:after{ background-color: #d00205; }
+.dark .split-content:before{background-color: #d00205; }
+
+
+/* Inside Pages */
+#inside-nav ul li > a{
+	color:#d00205;
+}
+#inside-nav ul li a:hover,
+#inside-nav ul li.current_page_item > a,
+#inside-nav ul li.current_parent > a{ color: #282828; }
+main hr, .blog h4, .archive hr{
+	background: #d00205;
+	border-color: #d00205;
+}
+
+
+/* Blog */
+.blog-article h1 a:hover{ color: #9e0000; }
+.tags a, .wp-tag-cloud a{ background: #d00205; }
+.tags a:hover, .tags a:active, .wp-tag-cloud a:hover, .wp-tag-cloud a:active{ background: #9e0000; color: #ffffff; }
+.news-date i{ color: #d00205; }
+
+@media only screen and (max-width: 1023px) {
+	#header-search .search-submit{ background-color: #d00205; }
+	#header-search .search-submit:hover{ background-color: #e91b1e; }
+}
+
+
+@media only screen and (min-width: 1024px) {
+	.header-layout-a .search-form button{ background:; }
+	.search-open .header-layout-a .search-form button{ background:#FFF; color:#000; }
+	.header-layout-a .search-form{ border-color:; }
+	#home-slider-nav .slick-dots li button{ border-color: #FFF; }
+	#home-slider-nav .slick-dots li.slick-active button{ background: #FFF; }
+}
+</style>
+
+					<meta name="theme-color" content="#f43927">
+</head>
+
+<body class="attachment attachment-template-default attachmentid-117 attachment-jpeg  inside hassecnav header-layout-b">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  //js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=180287342381409";
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	
+	<!--[if lt IE 9]>
+	  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+
+  <div id="screen"></div>
+
+  <header id="site-header" class="">
+
+		<div class="wrap dropshadow">
+
+							<a href="https://www.ijwhite.com" id="logo"><img src="https://www.ijwhite.com/wp-content/uploads/2018/05/IJwhitelogo_rev-1.png" alt="I.J. White Systems" title="I.J. White Systems" /></a>
+			
+			<a href="#" id="menu-toggle" class="button"><i class="fa fa-bars" aria-hidden="true"></i></a>
+			<a id="close-menu" title="Close Menu" href="#">×</a>
+
+			
+			<div id="header-nav-container">
+				<div id="header-nav">
+
+											<nav id="secondary-nav">
+
+															<div id="phonebtn-header">
+									<div class="phonebtn"> <a href="tel:+16312932211" title="Click to call I.J. White Systems">631-293-2211</a></div>
+								</div>
+							
+													</nav>
+					
+					<nav id="menu-primary-nav">
+						<ul id="menu-primary-nav" class="menu"><li id="menu-item-791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-791"><a href="https://www.ijwhite.com/about-us/" class="post-id-770">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1189"><a href="https://www.ijwhite.com/about-us/company-history/" class="post-id-1182">Company History</a></li>
+	<li id="menu-item-4587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4587"><a href="https://www.ijwhite.com/about-us/affiliations-baking-associations/" class="post-id-4086">Affiliations / Baking Associations</a></li>
+	<li id="menu-item-4267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4267"><a href="https://www.ijwhite.com/about-us/business-relationships-and-associates/" class="post-id-4119">Business Relationships &#038; Associates</a></li>
+	<li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-792"><a href="https://www.ijwhite.com/about-us/news-events/" class="post-id-784">News &#038; Events</a></li>
+	<li id="menu-item-1673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1673"><a href="https://www.ijwhite.com/about-us/product-brochures-product-releases/" class="post-id-1656">Product Brochures &#038; Releases</a></li>
+	<li id="menu-item-1672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1672"><a href="https://www.ijwhite.com/about-us/success-stories/" class="post-id-1658">Success Stories</a></li>
+	<li id="menu-item-1596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="https://www.ijwhite.com/about-us/careers-at-ij-white/" class="post-id-1594">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-793"><a href="https://www.ijwhite.com/industries/" class="post-id-772">Industries</a>
+<ul class="sub-menu">
+	<li id="menu-item-2244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2244"><a href="https://www.ijwhite.com/industries/baking/" class="post-id-2206">Baking</a></li>
+	<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://www.ijwhite.com/industries/food-processing/" class="post-id-809">Food Processing</a></li>
+	<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://www.ijwhite.com/industries/pouch-processing/" class="post-id-815">Pouch Processing</a></li>
+	<li id="menu-item-3127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3127"><a href="https://www.ijwhite.com/industries/cup-processing/" class="post-id-2449">Cup Processing</a></li>
+	<li id="menu-item-3132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3132"><a href="https://www.ijwhite.com/industries/dairy/" class="post-id-2506">Dairy Processing</a></li>
+	<li id="menu-item-2401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2401"><a href="https://www.ijwhite.com/industries/seafood/" class="post-id-2395">Seafood</a></li>
+	<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://www.ijwhite.com/industries/pet-food/" class="post-id-813">Pet Food</a></li>
+	<li id="menu-item-829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="https://www.ijwhite.com/industries/industrial/" class="post-id-811">Industrial</a></li>
+	<li id="menu-item-831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-831"><a href="https://www.ijwhite.com/industries/canningbottling/" class="post-id-807">Canning/Bottling</a></li>
+</ul>
+</li>
+<li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-794"><a href="https://www.ijwhite.com/products-solutions/" class="post-id-774">Products &#038; Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-1448" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1448"><a href="https://www.ijwhite.com/products-solutions/baking/" class="post-id-1419">Baking</a></li>
+	<li id="menu-item-4480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4480"><a href="https://www.ijwhite.com/products-solutions/cleaning-systems/" class="post-id-4480">Cleaning Systems</a></li>
+	<li id="menu-item-1446" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1446"><a href="https://www.ijwhite.com/products-solutions/food-processing/" class="post-id-1424">Food Processing</a></li>
+	<li id="menu-item-1443" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1443"><a href="https://www.ijwhite.com/products-solutions/pouch-processing/" class="post-id-1431">Pouch Processing</a></li>
+	<li id="menu-item-1444" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1444"><a href="https://www.ijwhite.com/products-solutions/pet-food/" class="post-id-1429">Pet Food</a></li>
+	<li id="menu-item-1445" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1445"><a href="https://www.ijwhite.com/products-solutions/industrial/" class="post-id-1427">Industrial</a></li>
+	<li id="menu-item-1447" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1447"><a href="https://www.ijwhite.com/products-solutions/canning-bottling/" class="post-id-1422">Canning/Bottling</a></li>
+	<li id="menu-item-1450" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1450"><a href="https://www.ijwhite.com/products-solutions/product-conveyors/" class="post-id-866">Product Conveyors</a></li>
+	<li id="menu-item-1451" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-has-children menu-item-1451"><a href="https://www.ijwhite.com/products-solutions/system-upgrades/" class="post-id-874">Performance Upgrades</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1454" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1454"><a href="https://www.ijwhite.com/products-solutions/auto-pressurization-system-aps/" class="post-id-1205">Auto Pressurization System (APS)</a></li>
+		<li id="menu-item-1456" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1456"><a href="https://www.ijwhite.com/products-solutions/precisionlub-auto-lubrication/" class="post-id-1201">PrecisionLUB – Auto Lubrication</a></li>
+		<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1452"><a href="https://www.ijwhite.com/products-solutions/access-maintenance-platforms/" class="post-id-1438">Access &#038; Maintenance Platforms</a></li>
+		<li id="menu-item-1453" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-1453"><a href="https://www.ijwhite.com/products-solutions/auto-grease-system/" class="post-id-1440">Auto Grease System (AGS)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-795"><a href="https://www.ijwhite.com/technical-service-support/" class="post-id-776">Technical Service &#038; Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-1589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1589"><a href="https://www.ijwhite.com/technical-service-support/i-j-white-systemsij-white-technical-updates/" class="post-id-1583">Technical Updates</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="https://www.ijwhite.com/technical-service-support/ij-white-parts-maintenance-support/" class="post-id-1580">Parts / Maintenance &#038; Support</a></li>
+	<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a href="https://www.ijwhite.com/technical-service-support/raving-fans-technical-service-group/" class="post-id-1585">Raving Fans</a></li>
+</ul>
+</li>
+<li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-796"><a href="https://www.ijwhite.com/re-engineered-systems/" class="post-id-778">Re-Engineered Systems</a>
+<ul class="sub-menu">
+	<li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="https://www.ijwhite.com/re-engineered-systems/1-24-600-al-ss-1200-c/" class="post-id-1600">Spiral System:  24&#8243; Belt Width</a></li>
+	<li id="menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1621"><a href="https://www.ijwhite.com/re-engineered-systems/1-24-24-al-100-ccw/" class="post-id-1601">Spiral System: 24&#8243; Belt Width</a></li>
+	<li id="menu-item-1622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1622"><a href="https://www.ijwhite.com/re-engineered-systems/1-24-24-al-120-c-w/" class="post-id-1602">Spiral System: 24&#8243; Belt Width</a></li>
+	<li id="menu-item-1623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623"><a href="https://www.ijwhite.com/re-engineered-systems/1-28-24-al-120-cc/" class="post-id-1603">Spiral System: 28&#8243; Belt Width</a></li>
+	<li id="menu-item-4292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4292"><a href="https://www.ijwhite.com/re-engineered-systems/spiral-system-32-belt-width/" class="post-id-4143">Spiral System: 32&#8243; Belt Width</a></li>
+	<li id="menu-item-1624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624"><a href="https://www.ijwhite.com/re-engineered-systems/1-32-32-al-100-c/" class="post-id-1604">Spiral System: 32&#8243; Belt Width</a></li>
+	<li id="menu-item-1625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="https://www.ijwhite.com/re-engineered-systems/1-34-32-al-200-cw/" class="post-id-1605">Spiral System: 34&#8243; Belt Width</a></li>
+	<li id="menu-item-1626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="https://www.ijwhite.com/re-engineered-systems/1-36-36-al-120-cc/" class="post-id-1606">Spiral System: 36&#8243; Belt Width</a></li>
+	<li id="menu-item-1627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627"><a href="https://www.ijwhite.com/re-engineered-systems/1-36-54-al-140-ccw/" class="post-id-1607">Spiral System: 36&#8243; Belt Width</a></li>
+	<li id="menu-item-1628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1628"><a href="https://www.ijwhite.com/re-engineered-systems/1-38-38-st-120-c/" class="post-id-1608">Spiral System: 38&#8243; Belt Width</a></li>
+	<li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1629"><a href="https://www.ijwhite.com/re-engineered-systems/1-38-38-al-100-cw/" class="post-id-1609">Spiral System: 38&#8243; Belt Width</a></li>
+	<li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="https://www.ijwhite.com/re-engineered-systems/1-48-40-st-rf/" class="post-id-1610">Spiral System: 48&#8243; Belt Width</a></li>
+	<li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="https://www.ijwhite.com/re-engineered-systems/1-42-42-al-100-ccw/" class="post-id-1611">Spiral System: 42&#8243; Belt Width</a></li>
+	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="https://www.ijwhite.com/re-engineered-systems/1-42-42-st-u/" class="post-id-1612">Spiral System: 42&#8243; Belt Width</a></li>
+</ul>
+</li>
+<li id="menu-item-3926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3926"><a href="https://www.ijwhite.com/case-studies/" class="post-id-3590">Case Studies</a></li>
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://www.ijwhite.com/contact-us/" class="post-id-780">Contact Us</a></li>
+</ul>					</nav>
+
+					<div id="header-search">
+						<form role="search" method="get" class="search-form" action="https://www.ijwhite.com/">
+	<button type="submit" class="search-submit" value="Search" title="Search"><i class="fa fa-search"></i></button>
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+	</label>
+</form>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+
+		
+	</header>
+
+	<div id="menu-slide">
+
+	
+	
+						<div id="breadcrumbs-container">
+				<nav class="wrap"><p id="breadcrumbs"><span><span><a href="https://www.ijwhite.com/">Home</a></span>   /   <span><a href="https://www.ijwhite.com/">Home</a></span>   /   <span class="breadcrumb_last" aria-current="page">placeholder-800&#215;400</span></span></p></nav>
+			</div>	
+		
+	<main id="page-default" class="inside-content wrap">
+
+		<div class="pure-g">
+
+			
+				<div id="inside-rightcol" class="pure-u-1 pure-u-lg-16-24">
+					<p class="attachment"><a href='https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400.jpeg'><img width="300" height="150" src="https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400-300x150.jpeg" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" srcset="https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400-300x150.jpeg 300w, https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400-768x384.jpeg 768w, https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400-180x90.jpeg 180w, https://www.ijwhite.com/wp-content/uploads/2017/05/placeholder-800x400.jpeg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+									</div>
+
+				
+			
+		</div>
+
+	</main>
+
+	
+
+		<footer id="site-footer">
+
+			<div class="wrap">
+
+				<div class="pure-g spacedcols">
+
+					
+
+
+								<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1- pure-u-xl-6-24">
+
+
+
+									
+											<article class="footer-mod">
+
+												
+													<img src="https://www.ijwhite.com/wp-content/uploads/2018/05/IJwhitelogo_rev-1.png" alt="IJwhitelogo_rev" />
+
+												
+											</article>
+
+											
+
+
+									
+
+
+								</div>
+
+								
+
+
+								<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1- pure-u-xl-6-24">
+
+
+
+									
+										<article class="footer-mod">
+
+											<address itemscope itemtype="http://schema.org/LocalBusiness">
+
+												<span class="heading" itemprop="name">I.J. White Systems</span>
+
+												<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+
+													<span itemprop="streetAddress">20 Executive Boulevard
+														
+													</span>
+
+													<br /><span itemprop="addressLocality">Farmingdale</span>,
+
+													<span itemprop="addressRegion">NY</span>
+
+													<span itemprop="postalCode">11735</span>
+
+												</div>
+
+												
+													<span itemprop="telephone">631-293-2211</span>
+
+												
+											</address>
+
+										</article>
+
+										
+
+
+									
+
+
+								</div>
+
+								
+
+
+								<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1- pure-u-xl-6-24">
+
+
+
+									
+												<article class="footer-mod">
+
+													<ul class="footer-links">
+
+														
+															<li><a href="https://www.ijwhite.com/" >Home</a></li>
+
+														
+															<li><a href="https://www.ijwhite.com/resource-center/" >Resource Center</a></li>
+
+														
+															<li><a href="https://www.ijwhite.com/tech-tip/" >Tech Tips Newsletter</a></li>
+
+														
+													</ul>
+
+												</article>
+
+												
+
+
+									
+
+
+								</div>
+
+								
+
+
+								<div class="pure-u-1 pure-u-md-1-2 pure-u-xl-1- pure-u-xl-6-24">
+
+
+
+									
+												<article class="footer-mod">
+
+													<ul class="footer-links">
+
+														
+															<li><a href="https://www.ijwhite.com/rapid-quote-request/" >Rapid Quote</a></li>
+
+														
+															<li><a href="https://www.ijwhite.com/contact-us/" >Contact Us</a></li>
+
+														
+													</ul>
+
+												</article>
+
+												
+
+
+									
+
+
+								</div>
+
+								
+
+
+				</div>
+
+				<div id="copyright">&copy;2023 I.J. White Systems. <br class="mobileonly" />All Rights Reserved.</div>
+
+			</div>
+
+		</footer>
+
+
+
+	</div><!-- #menu-slide -->
+
+
+
+<script type='text/javascript' src='//s7.addthis.com/js/300/addthis_widget.js?ver=1#pubid=ra-59849ed80708087d' id='addthis-js'></script>
+<script type='text/javascript' id='flint-main-js-extra'>
+/* <![CDATA[ */
+var flint = {"ajaxurl":"https:\/\/www.ijwhite.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ijwhite.com/wp-content/themes/flint-default/js/main.js?ver=1' id='flint-main-js'></script>
+
+
+
+</body>
+
+</html>
+
