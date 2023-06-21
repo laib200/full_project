@@ -5,7 +5,8 @@
 
 # 	[auth]
 #     changepassword
-#     createsuperuser
+user :
+	python server/manage.py createsuperuser
 
 # [contenttypes]
 #     remove_stale_contenttypes

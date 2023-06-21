@@ -5,7 +5,7 @@ import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
-load_dotenv(os.path.join(BASE_DIR,'config/.env'))
+load_dotenv(os.path.join(BASE_DIR, 'config/.env'))
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
@@ -25,9 +25,10 @@ INSTALLED_APPS = [
     # external packages
     'corsheaders',
     'rest_framework',
+    'rest_framework.authtoken',
     # api packages , default urls and default api
-   'api.apps.ApiConfig',
-   'routers.apps.RoutersConfig',
+    'api.apps.ApiConfig',
+    'routers.apps.RoutersConfig',
     # created packages
     'products.apps.ProductsConfig',
 ]
@@ -107,4 +108,11 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# REST_FRAMEWORK = []
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework.authentication.BasicAuthentication',
+    ],
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',
+    ]
+}
