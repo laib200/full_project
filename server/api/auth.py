@@ -4,8 +4,8 @@ from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.authtoken.models import Token
 from .serializer import UserAuthSerializer
-# from rest_framework.authentication import TokenAuthentication
-from rest_framework.permissions import AllowAny
+from rest_framework.authentication import TokenAuthentication
+from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
 class Register(ModelViewSet):
@@ -37,3 +37,12 @@ class Login(ModelViewSet):
             return Response({'token': token.key}, status=status.HTTP_201_CREATED)
         except:
             return Response({"username": ["A user with that username not exists."]}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class UserViewSet(ModelViewSet):
+    queryset = User.objects.all()
+    serializer_class = UserAuthSerializer
+    lookup_field = 'username'
+    http_method_names = ['get', 'post', 'put', 'delete']
+    permission_classes = [IsAuthenticated]
+    authentication_classes = [TokenAuthentication]

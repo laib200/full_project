@@ -2,7 +2,7 @@
 name = "drf-porject"
 version = "0.0.1"
 description = "tihs is django rest project"
-authors = ["laib200 <laib.dz.206@gmail.com>"]
+authors = ["laib200 <laib.dz.200@gmail.com>"]
 readme = "README.md"
 packages = [{include = "drf_porject"}]
 

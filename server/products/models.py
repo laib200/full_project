@@ -16,6 +16,8 @@ class Products(models.Model):
         max_digits=9, decimal_places=2, default=00.00, null=True, blank=True)
     img = models.ImageField(upload_to='static/images/',
                             default='static/images/placeholder/img.png')
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
 
 
 @receiver(post_save, sender=settings.AUTH_USER_MODEL)
