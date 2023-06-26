@@ -45,9 +45,9 @@ migrate :makemigrations
 # [staticfiles]
 #     collectstatic
 #     findstatic
-full-run :migrate
+run :migrate
 	python server/manage.py runserver 
-run :
+r :
 	python server/manage.py runserver 
 
 
